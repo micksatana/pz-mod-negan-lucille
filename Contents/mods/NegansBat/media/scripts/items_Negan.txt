@@ -23,7 +23,7 @@ module Negan {
         HitAngleMod               = -30,
         ConditionLowerChanceOneIn = 10,
         ConditionMax              = 50,
-        HeadConditionLowerChanceMultiplier = 2,
+        HeadConditionLowerChanceMultiplier = 10,
         HeadCondition             = 50,
         CriticalChance            = 50,
         CritDmgMultiplier         = 5,

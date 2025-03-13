@@ -1,4 +1,8 @@
 module Negan {
+    imports {
+        Base
+    }
+    
     craftRecipe MakeNegansBat {
         time          = 300,
         tags          = AnySurfaceCraft,
