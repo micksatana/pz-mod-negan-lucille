@@ -17,6 +17,7 @@ description=[list]
 description=  [*] You will need Woodwork Level 1 and Maintenance Level 1
 description=  [*] Find a plier (only B42)
 description=  [*] Find materials; 1 Baseball Bat, 2 Barbed Wires
+description=  [*] [B42] Open crafting menu to craft
 description=[/list]
 description=
 description=[url=https://www.buymeacoffee.com/micksatana][img]https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=micksatana&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff[/img][/url]
