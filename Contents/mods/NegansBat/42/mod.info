@@ -1,6 +1,8 @@
 modversion=1.0.0
 name=Negan's Bat (Lucille)
 poster=media/poster-1.png
+poster=media/poster-2.png
+poster=media/poster-3.png
 icon=media/poster-1.png
 id=NegansBat
 author=micksatana
