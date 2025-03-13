@@ -1,0 +1,3 @@
+Items_EN = {
+  DisplayName_NegansBat = "Negan's Bat (Lucille)",
+}

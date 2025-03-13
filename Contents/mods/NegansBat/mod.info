@@ -1,7 +1,7 @@
-modversion=0.1.0
-name=Negan's Bat Lucille [B42]
-poster=media/poster.png
-icon=media/poster.png
+modversion=1.0.0
+name=Negan's Bat (Lucille)
+poster=media/poster-1.png
+icon=media/poster-1.png
 id=NegansBat
 author=micksatana
 description=Negan's Bat has better stats than normal baseball bat; it's hard to break, damage and critical rate is high.

@@ -1,0 +1,6 @@
+module Negan {
+    model NegansBat {
+        mesh = weapons/2handed/BaseBallBat_RailSpike_Hand,
+        texture = weapons/2handed/BaseBallBat_RailSkp_CirSaw,
+    }
+}

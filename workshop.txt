@@ -1,12 +1,23 @@
 version=1
-title=Negan's Bat (Lucille) [B42]
+id=
+title=Negan's Bat (Lucille)
 description=[h1]Negan's Bat (Lucille)[/h1]
 description=
 description=[h2]Features[/h2]
 description=
+description=[list]
+description=  [*] Critical chance and damage is significantly increased
+description=  [*] Hard to break
+description=  [*] It can be fixed using barbed wires, tapes, or glues
+description=[/list]
 description=
 description=[h2]How to make Negan's Bat (Lucille)[/h2]
 description=
+description=[list]
+description=  [*] You will need Woodwork Level 1 and Maintenance Level 1
+description=  [*] Find a Piler
+description=  [*] Find materials; 1 Baseball Bat, 2 Barbed Wires
+description=[/list]
 description=
 description=[url=https://www.buymeacoffee.com/micksatana][img]https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=micksatana&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff[/img][/url]
 tags=Build 41;Build 42;Weapons

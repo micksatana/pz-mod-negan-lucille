@@ -1,0 +1,4 @@
+Recipe_EN = {
+  Recipe_MakeNegansBat = "Make Negan's Bat (Lucille)",
+  FixWithBarbedWire = "Fix With Barbed Wire",
+}
