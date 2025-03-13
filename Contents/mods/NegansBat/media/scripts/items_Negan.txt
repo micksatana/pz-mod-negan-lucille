@@ -48,4 +48,14 @@ module Negan {
         
         Tags = IsFireFuel;HasMetal;RepairWithGlue;RepairWithTape;RepairWithBarbedWire;KillAnimal;SmeltableIronSmall,
     }
+
+    fixing Fix Negan's Bat (Lucille) {
+       Require : NegansBat,
+
+       Fixer : BarbedWire,
+       Fixer : Woodglue=1,
+       Fixer : Glue=1,
+       Fixer : DuctTape=1,
+       Fixer : Scotchtape=2,
+    }
 }
