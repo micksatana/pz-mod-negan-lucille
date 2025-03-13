@@ -1,0 +1,13 @@
+version=1
+title=Negan's Bat (Lucille) [B42]
+description=[h1]Negan's Bat (Lucille)[/h1]
+description=
+description=[h2]Features[/h2]
+description=
+description=
+description=[h2]How to make Negan's Bat (Lucille)[/h2]
+description=
+description=
+description=[url=https://www.buymeacoffee.com/micksatana][img]https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=micksatana&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff[/img][/url]
+tags=Build 41;Build 42;Weapons
+visibility=public
