@@ -3,7 +3,7 @@ module Negan {
         time          = 300,
         tags          = AnySurfaceCraft,
         category      = Weaponry,
-        needTobeLearn = true,
+        needTobeLearn = false,
         SkillRequired = Maintenance:1;Woodwork:1,
         timedAction   = CraftWeapon2H,
         xpAward       = Maintenance:10;Woodwork:10,
@@ -11,7 +11,7 @@ module Negan {
         inputs
         {
             item 1 tags[Pliers] mode:keep flags[MayDegradeLight],
-            item 1 [Base.BaseballBat] flags[Prop2;InheritCondition],
+            item 1 [Base.BaseballBat;Base.BaseballBat_Crafted] flags[Prop2;InheritCondition],
             item 2 [Base.BarbedWire],
         }
         outputs

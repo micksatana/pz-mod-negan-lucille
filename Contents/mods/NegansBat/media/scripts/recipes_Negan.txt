@@ -1,39 +1,11 @@
 module Negan {
-    craftRecipe MakeNegansBat {
-        time          = 300,
-        tags          = AnySurfaceCraft,
-        category      = Weaponry,
-        needTobeLearn = true,
-        SkillRequired = Maintenance:1;Woodwork:1,
-        timedAction   = CraftWeapon2H,
-        xpAward       = Maintenance:10;Woodwork:10,
+    recipe MakeNegansBat {
+        BarbedWire=2,
+        BaseballBat=1,
         
-        inputs
-        {
-            item 1 tags[Pliers] mode:keep flags[MayDegradeLight],
-            item 1 [Base.BaseballBat] flags[Prop2;InheritCondition],
-            item 2 [Base.BarbedWire],
-        }
-        outputs
-        {
-            item 1 Negan.NegansBat,
-        }
-    }
-    
-    craftRecipe FixWithBarbedWire {
-        Time            = 180,
-        AllowBatchCraft = False,
-        tags            = AnySurfaceCraft,
-        category        = Repair,
-        timedAction     = CraftWeapon1H,
-        xpAward         = Maintenance:5,
-        OnCreate        = CraftRecipeCode.GenericFixing.OnCreate,
-        ToolTip         = Tooltip_Recipe_CanFailAndDamage,
-        inputs {
-            item 1 tags[RepairWithBarbedWire] mode:keep flags[Prop2;IsDamaged],
-            item 2 [Base.BarbedWire] flags[Prop1],
-        }
-        outputs {
-        }
+        Result:Negan.NegansBat,
+        OnGiveXP:Recipe.OnGiveXP.WoodWork5,
+        SkillRequired:Maintenance=1;Woodwork=1,
+        Time:300.0,
     }
 }

@@ -1,5 +1,5 @@
 version=1
-id=
+id=3443544711
 title=Negan's Bat (Lucille)
 description=[h1]Negan's Bat (Lucille)[/h1]
 description=
@@ -15,7 +15,7 @@ description=[h2]How to make Negan's Bat (Lucille)[/h2]
 description=
 description=[list]
 description=  [*] You will need Woodwork Level 1 and Maintenance Level 1
-description=  [*] Find a Piler
+description=  [*] Find a plier (only B42)
 description=  [*] Find materials; 1 Baseball Bat, 2 Barbed Wires
 description=[/list]
 description=
