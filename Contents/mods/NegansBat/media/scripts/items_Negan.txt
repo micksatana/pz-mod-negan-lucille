@@ -4,7 +4,7 @@ module Negan {
         DisplayCategory           = WeaponCrafted,
         Categories                = Blunt,
         SubCategory               = Swinging,
-        Type                      = base:weapon,
+        Type                      = Weapon,
         Icon                      = Negan.NegansBat,
         AttachmentType            = BigWeapon,
         WeaponSprite              = Negan.NegansBat,
