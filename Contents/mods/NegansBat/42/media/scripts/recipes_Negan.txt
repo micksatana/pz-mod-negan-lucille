@@ -23,21 +23,4 @@ module Negan {
             item 1 Negan.NegansBat,
         }
     }
-    
-    craftRecipe FixWithBarbedWire {
-        Time            = 180,
-        AllowBatchCraft = False,
-        tags            = AnySurfaceCraft,
-        category        = Repair,
-        timedAction     = CraftWeapon1H,
-        xpAward         = Maintenance:5,
-        OnCreate        = CraftRecipeCode.GenericFixing.OnCreate,
-        ToolTip         = Tooltip_Recipe_CanFailAndDamage,
-        inputs {
-            item 1 tags[RepairWithBarbedWire] mode:keep flags[Prop2;IsDamaged],
-            item 2 [Base.BarbedWire] flags[Prop1],
-        }
-        outputs {
-        }
-    }
 }
